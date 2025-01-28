@@ -5,7 +5,7 @@
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
-  <a href="www.linkedin.com/in/rajasekhar-avadhanam" target="_blank" rel="noreferrer"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="LinkedIn GIF" width="100" height="100" />
+  <a href="https://www.linkedin.com/in/rajasekhar-avadhanam" target="_blank" rel="noreferrer"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="LinkedIn GIF" width="100" height="100" />
   </a>
   <a href="mailto:rajasekharavs@gmail.com" target="_blank" rel="noreferrer"><img src="https://cdn.dribbble.com/users/779602/screenshots/4848986/media/cc2e29eda7c3b1b8456160414e08dd0c.gif" alt="Gmail GIF" width="120" height="100" />
   </a>
