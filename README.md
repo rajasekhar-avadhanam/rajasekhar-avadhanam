@@ -41,7 +41,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw1-oC4gtSXSqISRSwdiEOaKYcSRmP5L0j2Q&s" alt="Seabron" width="120" height="100" />
 </p>
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="Plotly" width="120" height="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="Plotly" width="150" height="100" />
   <img src="https://www.vivantio.com/wp-content/uploads/2024-vivantio-integrations-cover-tableau.png" alt="Tableau" width="150" height="110" />
   <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" alt="Power BI" width="120" height="100" />
   <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="Git" width="100" height="100" />
