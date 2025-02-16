@@ -38,13 +38,14 @@
   <img src="https://media.licdn.com/dms/image/D4D12AQHoxQensNPGnw/article-cover_image-shrink_600_2000/0/1693838778306?e=2147483647&v=beta&t=sKT5z29grz9tNjIDCj1a2x2GcOz9yTSZ5a_8CnnYf0c" alt="NumPy" width="120" height="100" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ioErrXCaT2yZgsMaefs8irg9dRTWVk882Q&s" alt="Scikit-Learn" width="120" height="100" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtD77NqsHehyobngnMQaSRAQc41uDJq-OyQ&s" alt="Matplotlib" width="130" height="100" />
-  <img src="https://www.vivantio.com/wp-content/uploads/2024-vivantio-integrations-cover-tableau.png" alt="Tableau" width="150" height="110" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw1-oC4gtSXSqISRSwdiEOaKYcSRmP5L0j2Q&s" alt="Seabron" width="120" height="100" />
 </p>
 <p align="left">
+  <img src="https://www.vivantio.com/wp-content/uploads/2024-vivantio-integrations-cover-tableau.png" alt="Tableau" width="150" height="110" />
   <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" alt="Power BI" width="120" height="100" />
   <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="Git" width="100" height="100" />
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="120" height="100" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoAubNiI_aSMGINDD6rQZMepg417jWh7UMQ&s" alt="SciPy" width="120" height="100" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoAubNiI_aSMGINDD6rQZMepg417jWh7UMQ&s" alt="SciPy" width="150" height="50" />
 </p>
 
 <!-- Fun Fact Section -->
